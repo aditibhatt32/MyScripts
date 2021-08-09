@@ -1,0 +1,5 @@
+random_set=set({'Educative',1408,3.142})
+random_set.discard(1408)
+print(random_set)
+random_set.remove(3.142)
+print(random_set)
